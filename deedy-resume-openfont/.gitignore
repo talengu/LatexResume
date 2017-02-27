@@ -1,0 +1,6 @@
+tmp/*
+*.aux
+*.log
+*.gz
+*.out
+*.bak
